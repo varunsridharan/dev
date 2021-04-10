@@ -1,0 +1,37 @@
+{
+  "name"              : "varunsridharan/dev",
+  "description"       : " Composer package which installs all required libraries & packages for my development environment ",
+  "minimum-stability" : "stable",
+  "license"           : "MIT",
+  "authors"           : [
+	{
+	  "name"     : "Varun Sridharan",
+	  "email"    : "varunsridharan23@gmail.com",
+	  "homepage" : "http://varunsridharan.in",
+	  "role"     : "Developer"
+	}
+  ],
+  "homepage"          : "https://github.com/varunsridharan",
+  "readme"            : "README.md",
+  "require"           : {
+	"varunsridharan/wp-cli-textdomain"               : "*",
+	"varunsridharan/wp2github-md"                    : "*",
+	"mustangostang/spyc"                             : "*",
+	"varunsridharan/php-classmap-generator"          : "*",
+	"varunsridharan/php-sniff"                       : "*",
+	"dealerdirect/phpcodesniffer-composer-installer" : "*",
+	"phpcompatibility/php-compatibility"             : "*",
+	"phpcompatibility/phpcompatibility-wp"           : "*",
+	"wp-coding-standards/wpcs"                       : "*",
+	"phpstan/phpstan"                                : "*",
+	"phpstan/extension-installer"                    : "*",
+	"szepeviktor/phpstan-wordpress"                  : "*",
+	"php-stubs/woocommerce-stubs"                    : "*"
+  },
+  "funding"           : [
+	{
+	  "type" : "paypal",
+	  "url"  : "https://www.paypal.me/varunsridharan23"
+	}
+  ]
+}

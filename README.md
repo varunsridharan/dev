@@ -1,2 +1,8 @@
-# dev
-Custom Composer Package Which Installs All Required Development Packages For My Development Env
+# Personal Development - ***Composer Package***
+Composer package which installs all required libraries & packages for my development environment 
+
+
+<!-- START common-footer.mustache  -->
+
+
+<!-- END common-footer.mustache  -->
