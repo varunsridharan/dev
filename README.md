@@ -1,6 +1,29 @@
 # Personal Development - ***Composer Package***
 Composer package which installs all required libraries & packages for my development environment 
 
+## ⚙️Installation
+The preferred way to install this extension is through [Composer](https://getcomposer.org).
+
+To install **varunsridharan/dev**, simply:
+
+    $ composer require varunsridharan/dev
+
+The previous command will only install the necessary files, if you prefer to **download the entire source code** you can use:
+
+    $ composer require varunsridharan/dev --prefer-source
+
+You can also **clone the complete repository** with Git:
+
+    $ git clone https://github.com/varunsridharan/dev.git
+
+Or **install it manually**:
+
+[Download varunsridharan/dev.zip][downloadzip]:
+
+    $ wget https://github.com/varunsridharan/dev/archive/master.zip
+
+
+---
 
 <!-- START common-footer.mustache  -->
 ## 📝 Changelog
