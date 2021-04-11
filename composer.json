@@ -34,6 +34,10 @@
 	{
 	  "type" : "paypal",
 	  "url"  : "https://www.paypal.me/varunsridharan23"
+	},
+	{
+	  "type" : "buymeacoffee",
+	  "url"  : "https://www.buymeacoffee.com/varunsridharan"
 	}
   ]
 }
