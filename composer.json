@@ -23,10 +23,6 @@
 	"phpcompatibility/php-compatibility"             : "*",
 	"phpcompatibility/phpcompatibility-wp"           : "*",
 	"wp-coding-standards/wpcs"                       : "*",
-	"phpstan/phpstan"                                : "*",
-	"phpstan/extension-installer"                    : "*",
-	"szepeviktor/phpstan-wordpress"                  : "*",
-	"php-stubs/woocommerce-stubs"                    : "*",
 	"squizlabs/php_codesniffer"                      : "*",
 	"staabm/annotate-pull-request-from-checkstyle"   : "*"
   },
